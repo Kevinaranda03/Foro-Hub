@@ -12,15 +12,6 @@ MySQL 8.0+
 
 Pasos
 
-Clonar el repositorio:
-
-
-git clone https://github.com/castleortiz1/Challenge-ForoHub-AluraLatam
-
-
-cd forohub
-
-
 Configurar la base de datos:
 
 Crear una base de datos en MySQL.
